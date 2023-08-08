@@ -31,7 +31,7 @@ const Footer = () => {
         initial="hidden"
         animate="show"
         variants={footerVariants}
-        className="footer bg-gray-900 py-6 text-center"
+        className="footer bg-secondary py-6 text-center"
       >
         <div className="footer-content">
           <div className="footer-social">

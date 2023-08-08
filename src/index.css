@@ -45,8 +45,8 @@
 
 .personal-card-gradient {
   background: "#3c4e56"; /* Fallback color */
-  background: linear-gradient(90.13deg, #242d32 1.9%, #3c4e56 97.5%);
-  background: -webkit-linear-gradient(-90.13deg, #e055fc 1.9%, #00b7ff 97.5%);
+  background: linear-gradient(90.13deg, #010303 1.9%, #012331 98.5%);
+  background: -webkit-linear-gradient(-90.13deg, #251029 1.9%, #0b191f 98.5%);
   animation: glowAnimation 2s infinite;
 }
 
